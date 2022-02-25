@@ -10,8 +10,8 @@ description:        Community modeling course.
 
 # Site subpath, e.g. /blog
 url :               "https://watts-college.github.io"
-baseurl:            "/cpp-529-template"
-course_url:         "https://watts-college.github.io/cpp-529-template/"
+baseurl:            "/cpp-529-spr-2022"
+course_url:         "https://watts-college.github.io/cpp-529-spr-2022/"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
@@ -39,9 +39,9 @@ header:
 - title: Resources
   url: resources/
 - title: Yellowdig
-  url: https://canvas.asu.edu/courses/100958/assignments/2610856
+  url: https://canvas.asu.edu/courses/115726/assignments/3041003
 # - title: Canvas
-#  url: https://canvas.asu.edu/courses/100958
+#  url: https://canvas.asu.edu/courses/115726/
 - title: Office Hours
   url: office-hours/
 - title: Get Help
