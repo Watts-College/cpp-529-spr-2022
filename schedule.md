@@ -3,36 +3,36 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/81433/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/115726/assignments'
 
-yellowdig_url: 'https://canvas.asu.edu/courses/81433/assignments/2031096'
+yellowdig_url: 'https://canvas.asu.edu/courses/115726/assignments/3041003'
 
 yellowdig: 
-  post-00: 'Saturday, March 13'
-  post-01: 'Saturday, March 13'
-  post-02: 'Saturday, March 20'
-  post-03: 'Saturday, March 27' 
-  post-04: 'Saturday, April 3' 
-  post-05: 'Saturday, April 10' 
-  post-06: 'Saturday, April 17' 
-  post-07: 'Saturday, April 24' 
+  post-00: 'Saturday, March 19'
+  post-01: 'Saturday, March 19'
+  post-02: 'Saturday, March 26'
+  post-03: 'Saturday, April 2' 
+  post-04: 'Saturday, April 9' 
+  post-05: 'Saturday, April 16' 
+  post-06: 'Saturday, April 23' 
+  post-07: 'Saturday, April 30' 
   
 
 labs:
-  lab-01:  'Sunday, March 14' 
-  lab-02:  'Sunday, March 21'
-  lab-03:  'Sunday, March 28'
-  lab-04:  'Sunday, April 4'
-  lab-05:  'Sunday, April  11'
-  lab-06:  'Sunday, April  18 (LAB IS OPTIONAL)'
+  lab-01:  'Sunday, March 20' 
+  lab-02:  'Sunday, March 27'
+  lab-03:  'Sunday, April 3'
+  lab-04:  'Sunday, April 10'
+  lab-05:  'Sunday, April 17'
+  lab-06:  'Sunday, April 24 (LAB IS OPTIONAL)'
   
   
 projects: 
-  code-through:  'Friday, April 23'
-  dashboard:  'Wednesday, April 28'
+  code-through:  'Friday, April 29'
+  dashboard:  'Tuesday, May 3'
 
 
-pdf-root-url: 'https://github.com/watts-college/cpp-529-template/raw/main/lectures/'
+pdf-root-url: 'https://github.com/watts-college/cpp-529-spr-2022/raw/main/lectures/'
 
 ---
 
