@@ -18,11 +18,13 @@ info:
  course_prerequisites:  
  class_meets_when:  Asynchronous  
  class_meets_where:  Asynchronous
+ review_sessions_when: Thursday, 7:00pm AZ 
+ review_sessions_where: 'https://asu.zoom.us/j/5870336502'
  discussion_board_url: 'https://watts-college.github.io/cpp-529-spr-2022/help/'
 
 instructor:
--  name: Anthony Howell, PhD
-   title: Professor
+-  name: Jason Sills, MPA, MS PEDA
+   title: Faculty Associate
    email: jsills1@asu.edu
    office_location: Virtual 
    website_url: 
@@ -31,8 +33,8 @@ instructor:
    scholar_url:
    linked_in_url:
    office_hours_time: Flexible
-   office_hours_location:  Zoom 
-   office_hours_app_url:  ''
+   office_hours_location:  'https://asu.zoom.us/j/5870336502'
+   office_hours_app_url:  'mailto:jsills1@asu.edu'
    
   
 --- 
