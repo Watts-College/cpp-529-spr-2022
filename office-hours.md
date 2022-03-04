@@ -15,7 +15,7 @@ Please note that **there will be NO LIVE REVIEW sessions for this class**.
 
 **OFFICE HOURS:** Instead, feel free to schedule virtual office hours to discuss any questions you may have about the class. You can check for availability on the calendar below, or email me to schedule a meeting at other times. 
 
-* **Mondays 5pm - 7pm** 
+* **Wednesday 6:00 PM - 8:00 PM AZ** 
 
 **DISCUSSION BOARDS**: Similar to other CPP courses, the fastest way to get questions answered about lectures and labs is to post sometime on the [**course discussion boards**](https://ds4ps.org/cpp-529-master/help/). You are encouraged to review the rules on asking questions in a way that makes your issue reproducible, and follows professional norms on platforms like StackOverflow. 
 
