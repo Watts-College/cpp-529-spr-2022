@@ -57,8 +57,8 @@ author:
 github_info:
     username:          watts-college # Github location of the course
     branch:            master
-    website-repo:      cpp-529-template
-    course-repo:       cpp-529-template
+    website-repo:      cpp-529-spr-2022
+    course-repo:       cpp-529-spr-2022
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
