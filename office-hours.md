@@ -26,25 +26,10 @@ Please note that **there will be NO LIVE REVIEW sessions for this class**.
 
 ### OFFICE HOUR LOCATIONS: 
   
-* **Virtually**: Zoom session @ [**https://asu.zoom.us/j/93504639301**](https://asu.zoom.us/j/93504639301)      
+* **Virtually**: Zoom session @ [**https://asu.zoom.us/j/5870336502**](https://asu.zoom.us/j/5870336502)      
 
 
 <!-- 
-
-Or if you need to schedule office hours:
-
-**AVAILABILITY**: 
--->
-
-<!-- Calendly inline widget begin -->
-
-<!-- 
-<div class="calendly-inline-widget" data-url="https://calendly.com/tonyjames-1/15min?hide_event_type_details=1" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
--->
-
-<!-- Calendly inline widget end -->
-
 
 
 
