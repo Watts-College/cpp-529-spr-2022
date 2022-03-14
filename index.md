@@ -234,7 +234,7 @@ Please note: the course instructor may from time to time adjust assigned reading
 * **Unit 6**: PREDICTIVE MODELS OF NEIGHBORHOOD CHANGE  
 * **Unit 7**: WORK ON YOUR DATA DASHBOARD  
 
-To navigate to the course schedule page, please click the following URL [Link](https://ds4ps.org/cpp-529-spr-2021/schedule/)
+To navigate to the course schedule page, please click the following URL [Link](https://watts-college.github.io/cpp-529-spr-2022/schedule/)
 
 
 
