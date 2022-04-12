@@ -912,7 +912,7 @@ Read the tutorial on modeling changes in home value:
 
 **Neighborhood Change and Gentrification**
 
-The first video below provides a general overview of neighborhood change and gentrification, including: defintions, debates,  policies, and a case study example.  The lecture notes can be found [here (PDF)](../lectures/Gentrification_and_affordable_housing_2016.pdf).
+The first video below provides a general overview of neighborhood change and gentrification, including: defintions, debates,  policies, and a case study example.  The lecture notes can be found [here (PDF)](/lectures/Gentrification_and_affordable_housing_2016.pdf).
 
 <br>
 
